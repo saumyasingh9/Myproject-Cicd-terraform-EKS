@@ -70,5 +70,5 @@ This setup provides a robust CI/CD pipeline for managing an EKS cluster using Te
 
 Saumya Singh
 
-For any queries, please contact me at [saumyasingh24602new@gmail.com]
+For any queries, please contact me at [saumyasingh24602new@gmail.com]/[bajrangbali246new@gmail.com]
 ```
